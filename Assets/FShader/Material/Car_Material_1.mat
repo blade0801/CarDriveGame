@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Car_Material_1
+  m_Shader: {fileID: 4800000, guid: 9408ed01a68d0154ea9bcdb470787f6e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeMap
+        second:
+          m_Texture: {fileID: 8900000, guid: f0dcfe2ef0ca7424c887136708f077ee, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainTexture
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Specular
+        second: 1
+      data:
+        first:
+          name: _Gloss
+        second: .303571433
+      data:
+        first:
+          name: _FresnelFallOff
+        second: 2.125
+      data:
+        first:
+          name: _FresnelPower
+        second: 1.42412949
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ColorCubeMap
+        second: {r: .102941155, g: .102941155, b: .102941155, a: 1}
+      data:
+        first:
+          name: _ColorCar
+        second: {r: 1, g: .765517235, b: 0, a: 1}
+      data:
+        first:
+          name: _FresnelColor
+        second: {r: 1, g: 1, b: 1, a: 1}

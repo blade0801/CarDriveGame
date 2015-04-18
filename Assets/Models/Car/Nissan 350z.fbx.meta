@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 2bd174bbf72dcd7458043ea6751ac290
+timeCreated: 1427723024
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chassis_body_white_[s
+    100002: door_rf_ok_body_w
+    100004: door_rf_ok_body_white
+    100006: //RootNode
+    100008: spoiler_body_white_[s
+    100010: wheel_rs721_[spec
+    100012: wheel_rs721_[spec.001
+    100014: wheel_rs721_[spec.002
+    100016: wheel_rs721_[spec]
+    100018: chassis_body_white__s
+    100020: chassis_body_white__s_001
+    100022: chassis_body_white__s_006
+    100024: chassis_body_white__s_008
+    100026: chassis_body_white__s_009
+    100028: chassis_body_white__s_010
+    100030: chassis_body_white__s_019
+    100032: spoiler_body_white__s
+    100034: wheel_rs721__spec
+    100036: wheel_rs721__spec_
+    100038: wheel_rs721__spec_001
+    100040: wheel_rs721__spec_002
+    100042: wheel_rs721__spec_006
+    100044: wheel_rs721__spec_007
+    100046: wheel_rs721__spec_008
+    100048: wheel_rs721__spec__002
+    400000: chassis_body_white_[s
+    400002: door_rf_ok_body_w
+    400004: door_rf_ok_body_white
+    400006: //RootNode
+    400008: spoiler_body_white_[s
+    400010: wheel_rs721_[spec
+    400012: wheel_rs721_[spec.001
+    400014: wheel_rs721_[spec.002
+    400016: wheel_rs721_[spec]
+    400018: chassis_body_white__s
+    400020: chassis_body_white__s_001
+    400022: chassis_body_white__s_006
+    400024: chassis_body_white__s_008
+    400026: chassis_body_white__s_009
+    400028: chassis_body_white__s_010
+    400030: chassis_body_white__s_019
+    400032: spoiler_body_white__s
+    400034: wheel_rs721__spec
+    400036: wheel_rs721__spec_
+    400038: wheel_rs721__spec_001
+    400040: wheel_rs721__spec_002
+    400042: wheel_rs721__spec_006
+    400044: wheel_rs721__spec_007
+    400046: wheel_rs721__spec_008
+    400048: wheel_rs721__spec__002
+    2300000: chassis_body_white_[s
+    2300002: door_rf_ok_body_w
+    2300004: door_rf_ok_body_white
+    2300006: spoiler_body_white_[s
+    2300008: wheel_rs721_[spec
+    2300010: wheel_rs721_[spec.001
+    2300012: wheel_rs721_[spec.002
+    2300014: wheel_rs721_[spec]
+    2300016: chassis_body_white__s
+    2300018: chassis_body_white__s_001
+    2300020: chassis_body_white__s_006
+    2300022: chassis_body_white__s_008
+    2300024: chassis_body_white__s_009
+    2300026: chassis_body_white__s_010
+    2300028: chassis_body_white__s_019
+    2300030: spoiler_body_white__s
+    2300032: wheel_rs721__spec
+    2300034: wheel_rs721__spec_
+    2300036: wheel_rs721__spec_001
+    2300038: wheel_rs721__spec_002
+    2300040: wheel_rs721__spec_006
+    2300042: wheel_rs721__spec_007
+    2300044: wheel_rs721__spec_008
+    2300046: wheel_rs721__spec__002
+    3300000: chassis_body_white_[s
+    3300002: door_rf_ok_body_w
+    3300004: door_rf_ok_body_white
+    3300006: spoiler_body_white_[s
+    3300008: wheel_rs721_[spec
+    3300010: wheel_rs721_[spec.001
+    3300012: wheel_rs721_[spec.002
+    3300014: wheel_rs721_[spec]
+    3300016: chassis_body_white__s
+    3300018: chassis_body_white__s_001
+    3300020: chassis_body_white__s_006
+    3300022: chassis_body_white__s_008
+    3300024: chassis_body_white__s_009
+    3300026: chassis_body_white__s_010
+    3300028: chassis_body_white__s_019
+    3300030: spoiler_body_white__s
+    3300032: wheel_rs721__spec
+    3300034: wheel_rs721__spec_
+    3300036: wheel_rs721__spec_001
+    3300038: wheel_rs721__spec_002
+    3300040: wheel_rs721__spec_006
+    3300042: wheel_rs721__spec_007
+    3300044: wheel_rs721__spec_008
+    3300046: wheel_rs721__spec__002
+    4300000: chassis_body_white_[s
+    4300002: spoiler_body_white_[s
+    4300004: door_rf_ok_body_w
+    4300006: door_rf_ok_body_white
+    4300008: wheel_rs721_[spec.002
+    4300010: wheel_rs721_[spec.001
+    4300012: wheel_rs721_[spec
+    4300014: wheel_rs721_[spec]
+    4300016: chassis_body_white__s_001
+    4300018: chassis_body_white__s_019
+    4300020: chassis_body_white__s_010
+    4300022: chassis_body_white__s_009
+    4300024: chassis_body_white__s_008
+    4300026: chassis_body_white__s_006
+    4300028: chassis_body_white__s
+    4300030: wheel_rs721__spec_008
+    4300032: wheel_rs721__spec_007
+    4300034: wheel_rs721__spec__002
+    4300036: wheel_rs721__spec_006
+    4300038: wheel_rs721__spec_
+    4300040: wheel_rs721__spec_002
+    4300042: spoiler_body_white__s
+    4300044: wheel_rs721__spec
+    4300046: wheel_rs721__spec_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
