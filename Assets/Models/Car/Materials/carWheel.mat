@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: vehiclelights12
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: carWheel
+  m_Shader: {fileID: 4800000, guid: 9408ed01a68d0154ea9bcdb470787f6e, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -30,7 +30,56 @@ Material:
           m_Offset: {x: 0, y: 0}
       data:
         first:
+          name: _NormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
           name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FrontTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BackTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _LeftTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RightTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _UpTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DownTex
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
@@ -73,6 +122,20 @@ Material:
       data:
         first:
           name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeMap
+        second:
+          m_Texture: {fileID: 8900000, guid: 8a8590211cc85274b8104af7a308db1a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainTexture
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
@@ -130,16 +193,60 @@ Material:
         first:
           name: _Metallic
         second: 0
+      data:
+        first:
+          name: _Specular
+        second: .542999983
+      data:
+        first:
+          name: _Gloss
+        second: 0
+      data:
+        first:
+          name: _FresnelFallOff
+        second: 1.73000002
+      data:
+        first:
+          name: _FresnelPower
+        second: 0
+      data:
+        first:
+          name: _Fresnel
+        second: 5
     m_Colors:
       data:
         first:
           name: _EmissionColor
-        second: {r: 0, g: 0, b: 0, a: 1}
+        second: {r: 0, g: 0, b: 0, a: 0}
       data:
         first:
           name: _Color
-        second: {r: .800000012, g: .800000012, b: .800000012, a: 1}
+        second: {r: 1, g: 0, b: 0, a: 1}
       data:
         first:
           name: _EmissionColorUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ColorCubeMap
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ColorCar
+        second: {r: .426470578, g: .426470578, b: .426470578, a: 1}
+      data:
+        first:
+          name: _FresnelColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _CarColor
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _FreshnelColor
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _CubeMapColor
         second: {r: 1, g: 1, b: 1, a: 1}
