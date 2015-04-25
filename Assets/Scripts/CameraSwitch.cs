@@ -5,16 +5,8 @@ using UnityEngine.UI;
 public class CameraSwitch : MonoBehaviour
 {
     public GameObject[] objects;
-    public Text text;
 
     private int m_CurrentActiveObject;
-
-
-    private void OnEnable()
-    {
-        text.text = objects[m_CurrentActiveObject].name;
-    }
-
 
     public void NextCamera()
     {
@@ -26,6 +18,5 @@ public class CameraSwitch : MonoBehaviour
         }
 
         m_CurrentActiveObject = nextactiveobject;
-        text.text = objects[m_CurrentActiveObject].name;
     }
 }

@@ -130,7 +130,7 @@ Material:
         first:
           name: _CubeMap
         second:
-          m_Texture: {fileID: 8900000, guid: 8a8590211cc85274b8104af7a308db1a, type: 3}
+          m_Texture: {fileID: 8900000, guid: 5903d9a5fcd03584eb8eeeb2b166a05e, type: 2}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -204,7 +204,7 @@ Material:
       data:
         first:
           name: _FresnelFallOff
-        second: 2.00999999
+        second: 2.11999989
       data:
         first:
           name: _FresnelPower

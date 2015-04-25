@@ -130,7 +130,7 @@ Material:
         first:
           name: _CubeMap
         second:
-          m_Texture: {fileID: 8900000, guid: 8a8590211cc85274b8104af7a308db1a, type: 3}
+          m_Texture: {fileID: 8900000, guid: 5903d9a5fcd03584eb8eeeb2b166a05e, type: 2}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -196,7 +196,7 @@ Material:
       data:
         first:
           name: _Specular
-        second: .542999983
+        second: .549000025
       data:
         first:
           name: _Gloss
@@ -204,11 +204,11 @@ Material:
       data:
         first:
           name: _FresnelFallOff
-        second: 1.73000002
+        second: 1.20000005
       data:
         first:
           name: _FresnelPower
-        second: 0
+        second: .680000007
       data:
         first:
           name: _Fresnel
@@ -229,11 +229,11 @@ Material:
       data:
         first:
           name: _ColorCubeMap
-        second: {r: 1, g: 1, b: 1, a: 1}
+        second: {r: .713235259, g: .713235259, b: .713235259, a: 1}
       data:
         first:
           name: _ColorCar
-        second: {r: .426470578, g: .426470578, b: .426470578, a: 1}
+        second: {r: .29411763, g: .29411763, b: .29411763, a: 1}
       data:
         first:
           name: _FresnelColor
